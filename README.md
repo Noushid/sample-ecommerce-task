@@ -7,5 +7,5 @@ Steps to run
     - composer install
     - npm install
     - npm run dev
-    - create database and config in .env
+- create database and config in .env
 - run php artisan ser
