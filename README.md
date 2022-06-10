@@ -21,4 +21,4 @@ username - admin@admin.com
 password - password
 
 Note: please run below command if Images are note visble in order making window.
-php artisan storage:link
+`php artisan storage:link`
